@@ -2,7 +2,7 @@
 <h2>This is the simplest example of a conditional statement. The syntax is:
 
 if(condition):
-      indented Statement Block
+   
 
 The block of lines indented the same amount after the colon (:) will be executed whenever the condition is TRUE.</h2>
 
